@@ -1,1 +1,1 @@
-# pica
+# juego de igualdades de oportunidades 
